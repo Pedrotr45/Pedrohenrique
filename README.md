@@ -1,5 +1,5 @@
 # 🔥About me:
-Sou Pedro, tenho 22 anos, sou formado em tecnólogo em análise e desenvolvimento de sistemas, estou atualmente trabalhando como desenvolvedor web, busco sempre cumprir com meus objetivos e busco sempre alcançar minhas metas.
+Sou Pedro, tenho 22 anos, estou cursando tecnólogo em análise e desenvolvimento de sistemas, estou atualmente trabalhando como desenvolvedor web, busco sempre cumprir com meus objetivos e busco sempre alcançar minhas metas.
 
 
 ## 🌐 Socials:
